@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![PedroBandeiraM GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroBandeiraM)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=PedroBandeiraM&show_icons=true&bg_color=2b2b2b&title_color=e63946&text_color=eaeaea&icon_color=e63946&border_color=e63946&hide_border=false)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
