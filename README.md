@@ -40,6 +40,6 @@ Me chamo **Pedro Bandeira Mari**, tenho 19 anos, sou natural de Curitiba, Paran�
 
 ### ➡️ Commits
 
-
+<img src="https://raw.githubusercontent.com/PedroBandeiraM/PedroBandeiraM/output/snake.svg" alt="Snake animation" />
 
 ![Snake animation](https://github.con/PedroBandeiraM/PedroBadneiraM/blob/output/github-contribution-grid-snake.svg)
