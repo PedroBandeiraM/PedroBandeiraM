@@ -29,9 +29,9 @@ Me chamo **Pedro Bandeira Mari**, tenho 19 anos, sou natural de Curitiba, Paran�
 <!-- CARD STATS (TÍTULO MODIFICADO, ESTATÍSITCAS BAIXAS) [![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=PedroBandeiraM&show_icons=true&bg_color=2b2b2b&title_color=e63946&text_color=eaeaea&icon_color=e63946&hide_border=false&border_color=ffffff&custom_title=aaaaaa)](https://github.com/pranesh-2005/github-readme-stats-fast) -->
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PedroBandeiraM&show_icons=true&bg_color=2b2b2b&title_color=e63946&text_color=eaeaea&icon_color=e63946&hide_border=false&border_color=ffffff" height=180em/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PedroBandeiraM&show_icons=true&bg_color=2b2b2b&title_color=e63946&text_color=eaeaea&icon_color=e63946&hide_border=false&border_color=ffffff" height=150em/>
   <img width="10"/>
-  <img src="https://github-readme-stats.zcy.dev/api/top-langs?username=PedroBandeiraM&layout=compact&bg_color=2b2b2b&title_color=e63946&text_color=eaeaea&icon_color=e63946&hide_border=false&locale=pt-br" height=180em font-wheight=bold/>
+  <img src="https://github-readme-stats.zcy.dev/api/top-langs?username=PedroBandeiraM&layout=compact&bg_color=2b2b2b&title_color=e63946&text_color=eaeaea&icon_color=e63946&hide_border=false&locale=pt-br" height=150em font-wheight=bold/>
 </div>
 
 ### 📜 Principais projetos
